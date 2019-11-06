@@ -805,6 +805,7 @@ fi
 %{_mandir}/man1/xenstore*
 %{_mandir}/man5/xl-disk-configuration.5.gz
 %{_mandir}/man7/xen-pci-device-reservations.7.gz
+%{_mandir}/man7/xen-vbd-interface.7.gz
 %{_mandir}/man7/xen-tscmode.7.gz
 %{_mandir}/man7/xen-vtpm.7.gz
 %{_mandir}/man7/xen-vtpmmgr.7.gz
