@@ -155,6 +155,7 @@ Patch0640: 0640-libxc-Add-xc_set_cpufreq_hwp.patch
 Patch0641: 0641-xenpm-Factor-out-a-non-fatal-cpuid_parse-variant.patch
 Patch0642: 0642-xenpm-Add-set-cpufreq-hwp-subcommand.patch
 Patch0643: 0643-cpufreq-enable-HWP-by-default.patch
+Patch0644: 0644-xen-Tweak-PDC-bits-when-using-HWP.patch
 
 # Qubes specific patches
 Patch1000: 1000-Do-not-access-network-during-the-build.patch
